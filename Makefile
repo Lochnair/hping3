@@ -13,7 +13,7 @@ PKG_RELEASE:=1
 
 PKG_SOURCE_URL:=https://github.com/Lochnair/hping
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_VERSION:=c5745755be761b80c22ed4e3c481b789b6ded975
+PKG_SOURCE_VERSION:=863e77635da6fcc4e8e55eefad8758337095cfa1
 
 include $(INCLUDE_DIR)/package.mk
 
